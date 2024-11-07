@@ -3,8 +3,12 @@
 
 ## GitHub 아이디 목록
 
-1. GrayOM
-2. jjaaccoobb25
-3. 
-4. 
-5. 
+제 Github 아이디는
+
+- GrayOM
+- jjaaccoobb25
+- 
+- 
+- 
+
+입니다!
