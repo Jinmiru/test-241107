@@ -3,9 +3,8 @@
 
 ## GitHub 아이디 목록
 
-1.GrayOM
-2.
-2.
-3.
-4.
-5. jjaaccoobb25
+1. GrayOM
+2. jjaaccoobb25
+3. 
+4. 
+5. 
