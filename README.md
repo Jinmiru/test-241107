@@ -5,10 +5,10 @@
 
 제 Github 아이디는
 
+- Jinmiru
 - GrayOM
 - jjaaccoobb25
 - 
-- 
-- 
+-  
 
 입니다!
