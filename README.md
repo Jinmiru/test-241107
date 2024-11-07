@@ -3,8 +3,9 @@
 
 ## GitHub 아이디 목록
 
-1.
-2.GrayOM
+1.GrayOM
+2.
+2.
 3.
 4.
 5.
